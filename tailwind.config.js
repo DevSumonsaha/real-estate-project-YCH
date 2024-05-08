@@ -10,7 +10,9 @@ module.exports = {
         lg:"1.25rem",
         xl:"1.5rem",
         xxl:"1.75rem",
-        xxxl:"2.25rem"
+        xxxl:"2.25rem",
+        xxxxl:"3rem",
+        "5xl":"4rem"
       },
       backgroundImage: {
         'team-bg-image': "url('/teams/img-6.png')"
